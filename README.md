@@ -5,6 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:seyyedmehdisafari@gmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/seyedmehdisafari?label=Followers&style=social)](https://github.com/seyedmehdisafari)
 
+- 💻 Machine learning Researcher
 - 📚 Computational Designer & Researcher in Architecture
 - 📥 How to reach me: seyyedmehdisafari@gmai.com
 
