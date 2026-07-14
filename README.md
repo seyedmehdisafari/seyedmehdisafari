@@ -6,7 +6,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/seyedmehdisafari?label=Followers&style=social)](https://github.com/seyedmehdisafari)
 
 - 💻 AI Researcher
-- 📚 Computational Designer & Researcher in Architecture
+- 📚 Computational Designer & Researcher in Al and data-driven decision-making in construction 
 - 📥 How to reach me: seyyedmehdisafari@gmai.com
 
 ### 🖥 Skills
